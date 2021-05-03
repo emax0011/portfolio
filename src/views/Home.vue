@@ -134,7 +134,7 @@
 <!--<Contact information page/>-->
 <div class="page6">
 <h6> Contact information </h6>
-<br><br
+<br><br>
 
 <div class="infotext1">
 <p id="info1">Ema Catovic</p>
